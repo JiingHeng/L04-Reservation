@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">L04-Reservation</string>
+    <string name="OnlineReservation">Heading</string>
+    <string name="Heading">Online Reservation</string>
+    <string name="Introduction">Thank you for choosing this restaurant</string>
+    <string name="Information1">Name:</string>
+    <string name="Information2">Mobile number:</string>
+    <string name="Information3">No. of People:</string>
+    <string name="EditTextName">Name</string>
+    <string name="EditTextMobile">Mobile Number</string>
+    <string name="EditTextAmount">No. of People</string>
+    <string name="Date">Date:</string>
+    <string name="Time">Time:</string>
+</resources>
