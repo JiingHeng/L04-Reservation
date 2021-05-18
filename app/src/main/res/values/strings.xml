@@ -11,4 +11,7 @@
     <string name="EditTextAmount">No. of People</string>
     <string name="Date">Date:</string>
     <string name="Time">Time:</string>
+    <string name="SmokingArea">Smoking Area</string>
+    <string name="Reserve">Reserve</string>
+    <string name="Reset">Reset</string>
 </resources>
